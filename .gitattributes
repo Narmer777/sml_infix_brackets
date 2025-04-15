@@ -1,1 +1,2 @@
-* linguist-language=Standard ML
+*.ml linguist-language=Standard ML
+*.sml linguist-language=Standard ML
